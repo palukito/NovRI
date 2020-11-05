@@ -1,0 +1,27 @@
+Hi Astrid!
+
+Thanks again for agreeing to collaborate. Really looking forward to getting stuck into this project with you!
+I've left this note here as an exercise for us both. If you're reading this, it means I was successful in making my first commit to this repo and you were successful in gaining access to it! :D
+
+here are my three wiki links:
+  - https://en.wikipedia.org/wiki/Samuel_Constantinus_Snellen_van_Vollenhoven (as it turns out, Vollenhoven is credited for "9 genera and 471 species of insects" - not just butterflies!)
+  - https://en.wikipedia.org/wiki/World_Institute_of_Scientology_Enterprises
+  - https://en.wikipedia.org/wiki/Velyki_Perelisky
+
+
+The idea with Github is that we'll essentially have a cloud location to save our work to. My (rough) understanding is that you will have a clone of the repo saved locally. You'll then be able to make 'branches' off of that cloned repo for you to work on/experiment with, without running risk of losing the earlier version.
+
+You can make as many branches as you want - in theory, you could have multiple branches with in-progress work on different features. If something goes wrong on one branch, it won't affect master or any other feature branches.
+
+When you're happy/have finished work on a branch you can 'commit' it master. From there, you can 'push' to update the original, hosted by Github.
+
+The owner of the repo (in this case, me) can control what changes are accepted into origin through PRS (pull requests), but I don't know if that'll come into what we're doing here. If it does, we'll cross that bridge when we come to it!
+
+That's my - kinda abstract - understanding of version control with Github, based on my experience of working with developers but not *in* a development team. If there's anything there that doesn't sound quite right, please correct me :)
+
+To practise a bit of version control, see if you can:
+  - checkout a new branch. Call it `NovRI/Astrids_notes` or something.
+  - update this .txt file with your wiki links
+  - commit and push your changes so I can see them
+
+Over and out!
